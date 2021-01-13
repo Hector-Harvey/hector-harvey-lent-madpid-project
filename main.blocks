@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+|$Ts}$8m]`4N6h@x*Eo">person</variable></variables><block type="pxt-on-start" id="^CSS^Kdv]pcN|Y=U1).," x="0" y="0"><statement name="HANDLER"><block type="spritesetimage" id="b=jlcLBDs(if=Rf^vw^+"><value name="sprite"><block type="variables_get" id="PH.N.#7Vkpvh2f39adpY"><field name="VAR" id="+|$Ts}$8m]`4N6h@x*Eo">person</field></block></value><value name="img"><shadow type="screen_image_picker" id="XxTJ#Y}gz,9R-lVLV~L`"><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+|$Ts}$8m]`4N6h@x*Eo">person</variable></variables><block type="pxt-on-start" id="^CSS^Kdv]pcN|Y=U1).," x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="zlqyY3ZkwdzS-^.4o18}"><value name="TIMES"><shadow type="math_whole_number" id="-`O4+:e$r%A/Eu#LqCK}"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="mixer_loop_sound" id="JpeZpudLm5Tc|TuMinnJ"><field name="sound">music.siren</field></block></statement><next><block type="gamesetbackgroundcolor" id="QJ6N-,Q9vMQiS6][/vW^"><value name="color"><shadow type="colorindexpicker" id="*@,q/mTG[Q.jJe5YGvw}"><field name="index">8</field></shadow></value></block></next></block></statement></block><block type="spritesetimage" id="b=jlcLBDs(if=Rf^vw^+" disabled="true" x="310" y="330"><value name="sprite"><block type="variables_get" id="PH.N.#7Vkpvh2f39adpY" disabled="true"><field name="VAR" id="+|$Ts}$8m]`4N6h@x*Eo">person</field></block></value><value name="img"><shadow type="screen_image_picker" id="XxTJ#Y}gz,9R-lVLV~L`" disabled="true"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><next><block type="gamesetbackgroundcolor" id="QJ6N-,Q9vMQiS6][/vW^"><value name="color"><shadow type="colorindexpicker" id="*@,q/mTG[Q.jJe5YGvw}"><field name="index">8</field></shadow></value></block></next></block></statement></block></xml>
+`</field></shadow></value></block></xml>
