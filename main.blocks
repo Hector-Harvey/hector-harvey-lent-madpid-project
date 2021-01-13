@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^CSS^Kdv]pcN|Y=U1).," x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="QJ6N-,Q9vMQiS6][/vW^"><value name="color"><shadow type="colorindexpicker" id="*@,q/mTG[Q.jJe5YGvw}"><field name="index">8</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="+|$Ts}$8m]`4N6h@x*Eo">person</variable></variables><block type="pxt-on-start" id="^CSS^Kdv]pcN|Y=U1).," x="0" y="0"><statement name="HANDLER"><block type="spritesetimage" id="b=jlcLBDs(if=Rf^vw^+"><value name="sprite"><block type="variables_get" id="PH.N.#7Vkpvh2f39adpY"><field name="VAR" id="+|$Ts}$8m]`4N6h@x*Eo">person</field></block></value><value name="img"><shadow type="screen_image_picker" id="XxTJ#Y}gz,9R-lVLV~L`"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . 2 . . 2 . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . 2 . . . . 2 . . . . . 
+. . . . . 2 2 2 2 2 2 . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field></shadow></value><next><block type="gamesetbackgroundcolor" id="QJ6N-,Q9vMQiS6][/vW^"><value name="color"><shadow type="colorindexpicker" id="*@,q/mTG[Q.jJe5YGvw}"><field name="index">8</field></shadow></value></block></next></block></statement></block></xml>
